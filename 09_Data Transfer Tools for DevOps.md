@@ -183,20 +183,3 @@ This command uploads a file to a remote server using SCP protocol.
 | cURL with SCP | Yes, possible using the right syntax                |
 
 ---
-
-## **Visual Aids to Include in Notes**
-
-1. **SCP File Transfer Diagram**:
-
-   * Local → SSH Tunnel → Remote
-   * Include authentication and port 22
-
-2. **SCP Evolution Tree**:
-
-   * BSD → RCP → SCP (via SSH)
-
-3. **cURL Data Flow**:
-
-   * Client → HTTP Request → Server → HTTP Response
-
----
