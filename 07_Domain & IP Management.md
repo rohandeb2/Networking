@@ -25,8 +25,10 @@ You type `www.amazon.com` → DNS translates that to `176.32.103.205` → Your b
 
 ---
 
-> 📝 **Diagram to Add:**
-> Show a browser typing in a domain name → DNS server → returns IP → request sent to that IP.
+
+<div align="center">
+  <img src="images/7.1.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -86,8 +88,10 @@ You type `www.amazon.com` → DNS translates that to `176.32.103.205` → Your b
 
 ---
 
-> 📝 **Diagram to Add:**
-> Full flow: Client → Recursive Resolver → Root DNS → TLD → Authoritative → IP returned → Website loads
+
+<div align="center">
+  <img src="images/7.2.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -151,10 +155,9 @@ Without DHCP:
 
 ---
 
-> 📝 **Diagram to Add:**
-> Flow of DORA: Client → Server → Client → Server
-> With packet types labeled: DHCPDISCOVER → DHCPOFFER → DHCPREQUEST → DHCPACK
-
+<div align="center">
+  <img src="images/7.3.png" alt="Network Data Flow">
+</div>
 ---
 
 ### 📌 Terms You Should Know:
@@ -279,14 +282,10 @@ This is the **heart of how DHCP works** — easy to remember using the acronym *
 
 ---
 
-> 📝 **Diagram to Add**:
-> Illustrate the DORA process:
 
-* Client device -> Discover -> Broadcast
-* Server -> Offer
-* Client -> Request
-* Server -> ACK
-  Use arrows and messages above each arrow.
+<div align="center">
+  <img src="images/7.4.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -401,8 +400,9 @@ It’s how **official internet standards** are published.
 
 ---
 
-> 📝 **Diagram to Add**:
-> Visual of the IETF publishing RFCs → used by protocols → implemented by DevOps tools.
+<div align="center">
+  <img src="images/7.5.png" alt="Network Data Flow">
+</div>
 ---
 
 ## 👨‍💻 DevOps Real-World Examples
