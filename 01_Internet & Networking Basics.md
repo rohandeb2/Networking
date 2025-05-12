@@ -20,7 +20,7 @@ The Internet is a global network of **interconnected computers** that communicat
 * **Router** – Like a post office. It decides where your data should go.
 * **ISP (Internet Service Provider)** – The company that gives you access to the Internet (like Airtel, Jio, Comcast).
 
-(images/1.png)
+![What is the Internet](images/1.png)
 
 ---
 
