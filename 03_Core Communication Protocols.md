@@ -43,8 +43,7 @@ An **IP address** is a **unique number** assigned to each device on a network so
 
 IPv4 is running out! IPv6 was created to provide **more addresses**, better **security**, and **faster routing**.
 
-📝 **Insert Diagram #8**:
-Show IPv4 address structure vs IPv6, with explanation of blocks.
+![Why IPv6?](images/3.2.png)
 
 ---
 
@@ -69,9 +68,7 @@ A device uses one IP, but it can **run many apps/services**. Ports help distingu
 | 53   | DNS      | Domain name resolution |
 | 3306 | MySQL    | Database               |
 
-📝 **Insert Diagram #9**:
-One device with IP `192.168.1.10` talking to many services via different ports (22, 80, 443).
-
+![Common Port Numbers](images/3.3.png)
 ---
 
 ## **4. MAC Address – The Unique ID of Every Device**
@@ -91,9 +88,7 @@ A **MAC (Media Access Control) Address** is a **hardware ID** given to every net
 | Used by       | Routers, Internet | Local network switches |
 | Example       | `192.168.0.10`    | `00:1C:42:2B:60:5A`    |
 
-📝 **Insert Diagram #10**:
-Show a PC with both IP and MAC; explain how data goes from IP to MAC in a LAN.
-
+![Difference: IP vs MAC](images/3.4.png)
 ---
 
 ### 📡 MAC Address Types – Unicast, Broadcast, Multicast
@@ -135,7 +130,7 @@ Imagine your PC (192.168.1.10) wants to send data to Printer (192.168.1.20):
    > "I have that IP, my MAC is `AA:BB:CC:DD:EE:FF`."
 5. Your PC stores it in the cache and sends the data to that MAC.
 
-#### 📌 Diagram Required:
+![How ARP Works (Step-by-step)](images/3.5.png)
 ---
 
 ### 🔶 RARP (Reverse ARP)
@@ -225,7 +220,7 @@ All data is **encrypted**, so no one can eavesdrop.
 * Gmail
 * Any login form
 
-#### 📌 Diagram Required:
+![Real-Life Use](images/3.6.png)
 
 ---
 
@@ -248,7 +243,7 @@ SMTP is used for **sending** emails from your client (like Outlook or Gmail) to 
 2. That server finds the recipient’s mail server → sends the mail using SMTP.
 3. The receiver downloads it using **POP3 or IMAP**.
 
-#### 📌 Diagram Required:
+![Flow of Email (Simplified)](images/3.7.png)
 
 ---
 
