@@ -7,14 +7,14 @@ This repository contains detailed documentation on networking fundamentals, prot
 | Document | Description |
 |---------|-------------|
 | [01_Internet & Networking Basics](01_Internet%20%26%20Networking%20Basics.md) | Introduction to internet architecture, core concepts, and networking fundamentals |
-| [02_Network Models & Protocol Layers](02_Network_Models_&_Protocol_Layers.md) | Detailed explanation of OSI and TCP/IP models and their respective protocol layers |
-| [03_Core Communication Protocols](03_Core_Communication_Protocols.md) | In-depth review of essential protocols that power network communications |
-| [04_Addressing, Subnetting & Routing](04_Addressing,_Subnetting_&_Routing.md) | IP addressing schemes, subnetting techniques, and routing concepts |
-| [05_Networking Devices & Infrastructure](05_Networking_Devices_&_Infrastructure.md) | Overview of network hardware, infrastructure components, and their functions |
-| [06_Secure Remote Communication](06_Secure_Remote_Communication.md) | Protocols and practices for secure remote access and communication |
-| [07_Domain & IP Management](07_Domain_&_IP_Management.md) | Domain name systems, IP address management, and related technologies |
-| [08_Network Security & Design](08_Network_Security_&_Design.md) | Security principles, threat mitigation, and secure network architecture |
-| [09_Data Transfer Tools for DevOps](09_Data_Transfer_Tools_for_DevOps.md) | Tools and technologies for effective data transfer in DevOps environments |
+| [02_Network Models & Protocol Layers](02_Network%20Models%20%26%20Protocol%20Layers.md) | Detailed explanation of OSI and TCP/IP models and their respective protocol layers |
+| [03_Core Communication Protocols](03_Core%20Communication%20Protocols.md) | In-depth review of essential protocols that power network communications |
+| [04_Addressing, Subnetting & Routing](04_Addressing%2C%20Subnetting%20%26%20Routing.md) | IP addressing schemes, subnetting techniques, and routing concepts |
+| [05_Networking Devices & Infrastructure](05_Networking%20Devices%20%26%20Infrastructure.md) | Overview of network hardware, infrastructure components, and their functions |
+| [06_Secure Remote Communication](06_Secure%20Remote%20Communication.md) | Protocols and practices for secure remote access and communication |
+| [07_Domain & IP Management](07_Domain%20%26%20IP%20Management.md) | Domain name systems, IP address management, and related technologies |
+| [08_Network Security & Design](08_Network%20Security%20%26%20Design.md) | Security principles, threat mitigation, and secure network architecture |
+| [09_Data Transfer Tools for DevOps](09_Data%20Transfer%20Tools%20for%20DevOps.md) | Tools and technologies for effective data transfer in DevOps environments |
 
 <div align="center">
   <img src="images/2.1.png" alt="Network Data Flow Diagram" width="650">
