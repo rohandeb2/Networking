@@ -321,9 +321,6 @@ Routing protocols use **algorithms** to decide the best path. Two main types:
 
 ---
 
-> 📝 **Diagram to Add**:
-
-* Simple network with RIP, showing hop counts
-* Another with OSPF, showing how each router has full network map
+![How Routing Works:](images/4.5.png)
 
 ---
