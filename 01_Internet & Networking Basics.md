@@ -20,7 +20,9 @@ The Internet is a global network of **interconnected computers** that communicat
 * **Router** – Like a post office. It decides where your data should go.
 * **ISP (Internet Service Provider)** – The company that gives you access to the Internet (like Airtel, Jio, Comcast).
 
-![What is the Internet](images/1.1.png)
+<div align="center">
+  <img src="images/1.1.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -49,7 +51,9 @@ The Internet is not just one big cable—it’s **layered**. These layers are ca
 * They **don’t pay anyone** for data—they exchange traffic with other Tier 1 networks (called **peering**).
 * Examples: AT\&T, Verizon, Tata Communications (in some cases), Level 3 Communications (now Lumen).
 
-![ Tiers of Internet (Tier 3 to Tier 1) – with Real-Life Examples](images/1.2.png)
+<div align="center">
+  <img src="images/1.2.png" alt="Network Data Flow">
+</div>
 ---
 
 ## **3. How Internet is Provided to Servers with Firewalls**
@@ -76,7 +80,9 @@ Now that we know how internet reaches end users, let’s see how it reaches **se
 * Only allow traffic on port 80 (HTTP) and 443 (HTTPS).
 * Block all other traffic like FTP, SSH, etc., unless specifically allowed.
 
-![ How Internet is Provided to Servers with Firewalls](images/1.3.png)
+<div align="center">
+  <img src="images/1.3.png" alt="Network Data Flow">
+</div>
 
 ---
 
