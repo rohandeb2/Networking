@@ -66,8 +66,10 @@ Only allows trusted people in and kicks out troublemakers.
 
 ---
 
-> 📝 **Diagram to Add**:
-> A network with:
+
+<div align="center">
+  <img src="images/8.1.png" alt="Network Data Flow">
+</div>
 
 * Internet → Firewall → Internal Network
   Label the flow of traffic, what’s blocked vs allowed.
@@ -121,7 +123,10 @@ These define the **actual layout of cables and devices**.
 * All devices connected to **one single backbone cable**
 * Data flows in both directions
 
-📉 *Disadvantage*: A single cable failure brings down the whole network
+
+<div align="center">
+  <img src="images/8.2.png" alt="Network Data Flow">
+</div>
 
 > 📝 **Diagram to Add**:
 > Straight horizontal cable with devices (PCs) connected to it
@@ -135,8 +140,10 @@ These define the **actual layout of cables and devices**.
 
 ✅ *Advantage*: If one cable fails, only that device is affected
 
-> 📝 **Diagram to Add**:
-> One switch in center, devices radiating like a star
+
+<div align="center">
+  <img src="images/8.3.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -147,6 +154,11 @@ These define the **actual layout of cables and devices**.
 
 📉 *Disadvantage*: One failure can affect the entire loop
 
+
+<div align="center">
+  <img src="images/8.4.png" alt="Network Data Flow">
+</div>
+
 ---
 
 ### 4. **Mesh Topology**
@@ -156,9 +168,10 @@ These define the **actual layout of cables and devices**.
 
 📈 *Used in*: Data centers, critical systems
 
-> 📝 **Diagram to Add**:
-> 4–5 nodes, all interconnected with lines
 
+<div align="center">
+  <img src="images/8.5.png" alt="Network Data Flow">
+</div>
 ---
 
 ### 5. **Tree (Hierarchical) Topology**
@@ -166,6 +179,10 @@ These define the **actual layout of cables and devices**.
 * Combination of **Star + Bus**
 * Good for structured networks (like enterprises)
 
+
+<div align="center">
+  <img src="images/8.6.png" alt="Network Data Flow">
+</div>
 ---
 
 ### 6. **Hybrid Topology**
@@ -174,6 +191,10 @@ These define the **actual layout of cables and devices**.
 
 📈 *Used in*: Large modern networks for flexibility
 
+
+<div align="center">
+  <img src="images/8.7.png" alt="Network Data Flow">
+</div>
 ---
 
 ## B. 🔄 Logical Topologies
@@ -202,13 +223,6 @@ Defines **how data flows**, regardless of physical layout.
 
 ---
 
-> 📝 **Diagram to Add**:
-> Side-by-side comparison of Physical vs Logical topology
-
-* Physical = how cables/devices are placed
-* Logical = how packets/data flow
-
----
 
 ## 🎯 Summary for Newbies
 
