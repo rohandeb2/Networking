@@ -6,7 +6,7 @@ This repository contains detailed documentation on networking fundamentals, prot
 
 | Document | Description |
 |---------|-------------|
-| [01_Internet & Networking Basics](01_Internet & Networking Basics.md) | Introduction to internet architecture, core concepts, and networking fundamentals |
+| [01_Internet & Networking Basics](01_Internet%20%26%20Networking%20Basics.md) | Introduction to internet architecture, core concepts, and networking fundamentals |
 | [02_Network Models & Protocol Layers](02_Network_Models_&_Protocol_Layers.md) | Detailed explanation of OSI and TCP/IP models and their respective protocol layers |
 | [03_Core Communication Protocols](03_Core_Communication_Protocols.md) | In-depth review of essential protocols that power network communications |
 | [04_Addressing, Subnetting & Routing](04_Addressing,_Subnetting_&_Routing.md) | IP addressing schemes, subnetting techniques, and routing concepts |
