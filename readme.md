@@ -16,11 +16,6 @@ This repository contains detailed documentation on networking fundamentals, prot
 | [08_Network Security & Design](08_Network%20Security%20%26%20Design.md) | Security principles, threat mitigation, and secure network architecture |
 | [09_Data Transfer Tools for DevOps](09_Data%20Transfer%20Tools%20for%20DevOps.md) | Tools and technologies for effective data transfer in DevOps environments |
 
-<div align="center">
-  <img src="images/2.1.png" alt="Network Data Flow Diagram" width="650">
-  <p><em>Network data flow visualization across different network segments</em></p>
-</div>
-
 ## 🔍 Key Focus Areas
 
 - **Internet Architecture**: Global connectivity, backbone infrastructure, and ISP hierarchy
@@ -37,11 +32,6 @@ This repository contains detailed documentation on networking fundamentals, prot
 - **Professional Guide**: Quick reference materials for working professionals
 - **Design Resource**: Infrastructure design considerations and best practices
 - **Technical Documentation**: Thorough explanations of complex networking concepts
-
-<div align="center">
-  <img src="images/1.1.png" alt="Internet Structure Diagram" width="650">
-  <p><em>Global internet infrastructure and connectivity visualization</em></p>
-</div>
 
 ## 🎯 Target Audience
 
