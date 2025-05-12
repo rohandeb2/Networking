@@ -18,7 +18,9 @@ Both **TCP** and **UDP** operate at the **Transport Layer** of the TCP/IP model.
 * **TCP** is like a **phone call**: you say “hello,” they reply “hello,” and you take turns talking — reliable and confirmed.
 * **UDP** is like **sending letters**: you post them quickly without knowing if they arrived or not.
 
-![Beginner Analogy](images/3.1.png)
+<div align="center">
+  <img src="images/3.1.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -43,7 +45,9 @@ An **IP address** is a **unique number** assigned to each device on a network so
 
 IPv4 is running out! IPv6 was created to provide **more addresses**, better **security**, and **faster routing**.
 
-![Why IPv6?](images/3.2.png)
+<div align="center">
+  <img src="images/3.2.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -68,7 +72,9 @@ A device uses one IP, but it can **run many apps/services**. Ports help distingu
 | 53   | DNS      | Domain name resolution |
 | 3306 | MySQL    | Database               |
 
-![Common Port Numbers](images/3.3.png)
+<div align="center">
+  <img src="images/3.3.png" alt="Network Data Flow">
+</div>
 ---
 
 ## **4. MAC Address – The Unique ID of Every Device**
@@ -88,7 +94,9 @@ A **MAC (Media Access Control) Address** is a **hardware ID** given to every net
 | Used by       | Routers, Internet | Local network switches |
 | Example       | `192.168.0.10`    | `00:1C:42:2B:60:5A`    |
 
-![Difference: IP vs MAC](images/3.4.png)
+<div align="center">
+  <img src="images/3.4.png" alt="Network Data Flow">
+</div>
 ---
 
 ### 📡 MAC Address Types – Unicast, Broadcast, Multicast
@@ -130,7 +138,9 @@ Imagine your PC (192.168.1.10) wants to send data to Printer (192.168.1.20):
    > "I have that IP, my MAC is `AA:BB:CC:DD:EE:FF`."
 5. Your PC stores it in the cache and sends the data to that MAC.
 
-![How ARP Works (Step-by-step)](images/3.5.png)
+<div align="center">
+  <img src="images/3.5.png" alt="Network Data Flow">
+</div>
 ---
 
 ### 🔶 RARP (Reverse ARP)
@@ -220,7 +230,9 @@ All data is **encrypted**, so no one can eavesdrop.
 * Gmail
 * Any login form
 
-![Real-Life Use](images/3.6.png)
+<div align="center">
+  <img src="images/3.6.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -243,7 +255,9 @@ SMTP is used for **sending** emails from your client (like Outlook or Gmail) to 
 2. That server finds the recipient’s mail server → sends the mail using SMTP.
 3. The receiver downloads it using **POP3 or IMAP**.
 
-![Flow of Email (Simplified)](images/3.7.png)
+<div align="center">
+  <img src="images/3.7.png" alt="Network Data Flow">
+</div>
 
 ---
 
