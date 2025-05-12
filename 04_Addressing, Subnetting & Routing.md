@@ -87,17 +87,6 @@ Here:
 
 ---
 
-> 📝 **Diagram to Add**:
-> Show a visual comparing:
-
-* /16
-* /24
-* /28
-* /30
-  With block size and usable host count
-
----
-
 ## 🔹 Part 3: **Subnetting** (Breaking Networks Into Smaller Pieces)
 
 ### ✅ What is Subnetting?
@@ -135,11 +124,6 @@ We break `/24` into four **/26** subnets:
 | 2        | 192.168.1.64/26  | 192.168.1.65  | 192.168.1.126 | 192.168.1.127     |
 | 3        | 192.168.1.128/26 | 192.168.1.129 | 192.168.1.190 | 192.168.1.191     |
 | 4        | 192.168.1.192/26 | 192.168.1.193 | 192.168.1.254 | 192.168.1.255     |
-
----
-
-> 📝 **Diagram to Add**:
-> Block diagram of `/24` being sliced into 4 `/26` ranges.
 
 ---
 
@@ -208,11 +192,6 @@ Example: `192.168.0.0/22`
 * Create **subnets of exact size** in cloud environments (e.g., AWS VPCs)
 * Scale **networks without redesign**
 * Helps define **routing boundaries** in infrastructure as code
-
----
-
-> 📝 **Diagram to Add**:
-> Show how `192.168.0.0/22` can give you **1024 IPs** (4 /24 blocks combined) instead of sticking with just a single `/24`.
 
 ---
 
