@@ -68,7 +68,7 @@ The **TCP/IP Model** is the **real-world standard** used in the Internet and all
 | Internet       | OSI Layer 3           | Chooses path to destination (IP addresses) |
 | Network Access | OSI Layers 2, 1       | Sends data physically (Ethernet, Wi-Fi)    |
 
-(images/2.2.png)
+![TCP/IP Model)](images/2.2.png)
 
 ---
 
@@ -109,8 +109,7 @@ Let’s look inside the **IP Packet** (IPv4) – this is how data is structured 
 | Destination IP     | Receiver’s IP address                                  |
 | Options            | Optional settings (rarely used)                        |
 
-📝 **Insert Diagram #6**:
-A labeled breakdown of an IP datagram with each field highlighted.
+![What’s Inside an IP Datagram?)](images/2.3.png)
 
 ---
 
