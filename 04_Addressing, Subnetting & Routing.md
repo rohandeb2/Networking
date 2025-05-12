@@ -38,7 +38,9 @@ Think of class A as a **university**, class B as a **city**, and class C as a **
 
 ---
 
-![Real-Life Analogy](images/4.1.png)
+<div align="center">
+  <img src="images/4.1.png" alt="Network Data Flow">
+</div>
 ---
 
 ### 🧨 Limitations of Classful Addressing:
@@ -229,7 +231,9 @@ If you're accessing a website in the U.S. from India:
 
 ---
 
-![How Routing Works:](images/4.2.png)
+<div align="center">
+  <img src="images/4.2.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -275,8 +279,12 @@ There are two major categories:
 
 ---
 
-![How Routing Works:](images/4.3.png)
-![How Routing Works:](images/4.4.png)
+<div align="center">
+  <img src="images/4.3.png" alt="Network Data Flow">
+</div>
+<div align="center">
+  <img src="images/4.4.png" alt="Network Data Flow">
+</div>
 ---
 
 ## 🔹 8. **Routing Algorithms: Distance Vector vs Link State**
@@ -321,6 +329,8 @@ Routing protocols use **algorithms** to decide the best path. Two main types:
 
 ---
 
-![How Routing Works:](images/4.5.png)
+<div align="center">
+  <img src="images/4.5.png" alt="Network Data Flow">
+</div>
 
 ---
