@@ -38,9 +38,7 @@ Think of class A as a **university**, class B as a **city**, and class C as a **
 
 ---
 
-> 📝 **Diagram to Add**:
-> Visual showing the binary division of Class A/B/C IPs into network vs host bits.
-
+![Real-Life Analogy](images/4.1.png)
 ---
 
 ### 🧨 Limitations of Classful Addressing:
@@ -231,8 +229,7 @@ If you're accessing a website in the U.S. from India:
 
 ---
 
-> 📝 **Diagram to Add**:
-> Flowchart of: `PC → Local Router → ISP Router → Internet Backbone → Destination Server`
+![How Routing Works:](images/4.2.png)
 
 ---
 
@@ -278,11 +275,8 @@ There are two major categories:
 
 ---
 
-> 📝 **Diagram to Add**:
-
-* Map of multiple routers using RIP and OSPF
-* Cloud setup with BGP routes connecting a company to AWS
-
+![How Routing Works:](images/4.3.png)
+![How Routing Works:](images/4.4.png)
 ---
 
 ## 🔹 8. **Routing Algorithms: Distance Vector vs Link State**
