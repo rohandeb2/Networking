@@ -18,8 +18,10 @@
 
 * **Analogy:** A switch is like an office receptionist. When a visitor (data) arrives for a specific person (device), the receptionist directs them only to that person's office, not to everyone in the building.
 
-![How Routing Works:](images/5.2.png)
 
+<div align="center">
+  <img src="images/5.2.png" alt="Network Data Flow">
+</div>
 ## 3. Server
 
 * **What it is:** A server is a specialized computer designed to provide services to other computers (clients). It's like a waiter in a restaurant; it takes requests and delivers.
@@ -38,7 +40,10 @@
 
 * **Operating System**: Servers often run specialized operating systems (like Windows Server, Linux distributions like Red Hat, Ubuntu Server) that are optimized for server tasks.
 
-![How Routing Works:](images/5.3.png)
+
+<div align="center">
+  <img src="images/5.3.png" alt="Network Data Flow">
+</div>
 
 ## 4. Server Room vs. Data Center
 
@@ -60,7 +65,10 @@
 
 * **Key Difference**: Scale and purpose. A server room serves the needs of a single organization within a building. A data center provides services to many organizations, often over the internet.
 
-![How Routing Works:](images/5.4.png)
+
+<div align="center">
+  <img src="images/5.4.png" alt="Network Data Flow">
+</div>
 
 ## 5. What is a Data Center?
 
@@ -94,7 +102,10 @@
 
     * And much more
 
-![How Routing Works:](images/5.5.png)
+
+<div align="center">
+  <img src="images/5.5.png" alt="Network Data Flow">
+</div>
 
 ## 6. How Servers Play a Major Role in DevOps
 
@@ -148,4 +159,7 @@
 
 * **Trend**: The trend is strongly towards cloud platforms due to the advantages they offer. However, on-premise solutions still have a place for specific use cases. Many companies use a hybrid approach, using both on-premise and cloud resources.
 
-![How Routing Works:](images/5.6.png)
+
+<div align="center">
+  <img src="images/5.6.png" alt="Network Data Flow">
+</div>
