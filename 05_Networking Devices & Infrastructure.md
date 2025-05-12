@@ -1,7 +1,3 @@
-# DevOps Training: Networking and Servers
-
-Okay class, let's dive into some fundamental concepts that are crucial in the world of DevOps: networking and servers. Imagine these as the building blocks upon which we construct and deploy all our applications and services.
-
 ## 1. Router
 
 * **What it is:** Think of a router as a traffic director for data. In your home, your router connects your devices (laptops, phones) to the internet. In a larger network, like a company's, routers manage the flow of data between different networks.
@@ -16,9 +12,9 @@ Okay class, let's dive into some fundamental concepts that are crucial in the wo
 
 ## 2. Switches
 
-* **What it is:** A switch is like a router, but it works on a smaller scale, within a single network. If a router directs traffic *between* networks, a switch directs traffic *within* a network (like your home network, or an office's local network).
+* **What it is:** A switch is like a router, but it works on a smaller scale, within a single network. If a router directs traffic *between* networks, a switch directs traffic *within* a network (like your home network or an office's local network).
 
-* **How it works:** A switch connects multiple devices (computers, servers, printers) within the same network. When a device sends data to another device on the same network, the switch makes sure that data goes only to the intended recipient, not to everyone else. It does this by using MAC addresses, which are unique identifiers for network interfaces.
+* **How it works:** A switch connects multiple devices (computers, servers, printers) within the same network. When a device sends data to another device on the same network, the switch makes sure that the data goes only to the intended recipient, not to everyone else. It does this by using MAC addresses, which are unique identifiers for network interfaces.
 
 * **Analogy:** A switch is like an office receptionist. When a visitor (data) arrives for a specific person (device), the receptionist directs them only to that person's office, not to everyone in the building.
 
