@@ -43,8 +43,9 @@ If successful, you will get a command prompt of the remote system (like typing o
 
 ---
 
-> 📝 **Diagram to Add:**
-> Draw two computers connected over a network — one user types `telnet`, and the packet flow is visible with **username/password in clear text**.
+<div align="center">
+  <img src="images/6.1.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -97,9 +98,9 @@ SSH is:
 
 ---
 
-> 📝 **Diagram to Add:**
-> Same network as above, but this time packets are **encrypted**. Show a padlock symbol on data streams, and authentication with an SSH key.
-
+<div align="center">
+  <img src="images/6.2.png" alt="Network Data Flow">
+</div>
 ---
 
 ## 🔄 Telnet vs SSH — Comparison Table
@@ -184,13 +185,9 @@ This ensures that **all communication is encrypted** from now on.
 
 ---
 
-> 📝 **Diagram to Add:**  
-Draw a client and server. Show:
-- SSH request
-- Public key exchange
-- Encrypted tunnel
-- Terminal shell access on the client
-
+<div align="center">
+  <img src="images/6.3.png" alt="Network Data Flow">
+</div>
 ---
 
 ## 🔹 5. Architecture of SSH
@@ -234,11 +231,9 @@ SSH operates on a **client-server architecture**, and it has **three main layers
 
 ---
 
-> 📝 **Diagram to Add:**  
-Stacked diagram:
-- Transport Layer (Encryption)
-- Authentication Layer (Verifying user)
-- Connection Layer (Shell, SFTP, Tunnel)
+<div align="center">
+  <img src="images/6.4.png" alt="Network Data Flow">
+</div>
 
 ---
 
@@ -315,9 +310,10 @@ You’re at a café and need to connect to your company’s private AWS VPC (Vir
 
 ---
 
-> 📝 **Diagram to Add:**  
-Show a laptop at home connecting via VPN to a company network, then accessing multiple servers inside.
 
+<div align="center">
+  <img src="images/6.5.png" alt="Network Data Flow">
+</div>
 ---
 
 ## 👨‍💻 DevOps Usage Scenarios:
