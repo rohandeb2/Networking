@@ -16,9 +16,7 @@
 
 * **Analogy:** A switch is like an office receptionist. When a visitor (data) arrives for a specific person (device), the receptionist directs them only to that person's office, not to everyone in the building.
 
-* **Diagram Suggestion**:
-
-    * *(A diagram showing a central switch with multiple devices (computers, servers) connected to it. Arrows should show data flow between two specific devices, with the other devices not receiving that data. Label devices with "MAC Address" and arrows with "Data".)*
+![How Routing Works:](images/5.2.png)
 
 ## 3. Server
 
@@ -38,9 +36,7 @@
 
 * **Operating System**: Servers often run specialized operating systems (like Windows Server, Linux distributions like Red Hat, Ubuntu Server) that are optimized for server tasks.
 
-* **Diagram Suggestion**:
-
-    * *(A diagram showing a server (represented as a tower computer) connected to a network, with arrows going to and from client devices (desktops, laptops, phones). Label the server with "Services: Web, File, Email, etc.".)*
+![How Routing Works:](images/5.3.png)
 
 ## 4. Server Room vs. Data Center
 
@@ -62,13 +58,7 @@
 
 * **Key Difference**: Scale and purpose. A server room serves the needs of a single organization within a building. A data center provides services to many organizations, often over the internet.
 
-* **Diagram Suggestion**:
-
-    * *(Two diagrams:
-
-        * Server Room: A small room with a few server racks, a cooling unit, and a door with a simple lock.
-
-        * Data Center: A large building with rows and rows of server racks, complex cooling systems, security cameras, and a sign indicating "Data Center".)*
+![How Routing Works:](images/5.4.png)
 
 ## 5. What is a Data Center?
 
@@ -102,9 +92,7 @@
 
     * And much more
 
-* **Diagram Suggestion**:
-
-    * *(A diagram of a data center, showing the various components (servers, network racks, power systems, cooling). Arrows can show the flow of data and power within the center.)*
+![How Routing Works:](images/5.5.png)
 
 ## 6. How Servers Play a Major Role in DevOps
 
@@ -158,10 +146,4 @@
 
 * **Trend**: The trend is strongly towards cloud platforms due to the advantages they offer. However, on-premise solutions still have a place for specific use cases. Many companies use a hybrid approach, using both on-premise and cloud resources.
 
-* **Diagram Suggestion**:
-
-    * *(A diagram comparing On-Premise vs. Cloud:
-
-        * On-Premise: A building icon with server racks inside, labeled "Company Owned", "High Control", "High Upfront Cost".
-
-        * Cloud: A cloud icon with server icons inside, labeled "AWS/Azure/GCP", "Scalable", "Cost-Effective", "Managed Infrastructure".)*
+![How Routing Works:](images/5.6.png)
