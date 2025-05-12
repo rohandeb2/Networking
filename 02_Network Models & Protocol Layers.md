@@ -20,8 +20,7 @@ It helps us understand what happens when you open a website, send a file, or use
 | 2       | Data Link    | Adds MAC addresses (local delivery)        |
 | 1       | Physical     | Actual cable, WiFi, or fiber sending bits  |
 
-📝 **Insert Diagram #4**:
-A vertical stack showing all 7 layers from Application (top) to Physical (bottom), with example protocols like HTTP, TCP, IP, Ethernet.
+![OSI Model (Open Systems Interconnection Model)](images/2.1.png)
 
 ---
 
@@ -69,8 +68,7 @@ The **TCP/IP Model** is the **real-world standard** used in the Internet and all
 | Internet       | OSI Layer 3           | Chooses path to destination (IP addresses) |
 | Network Access | OSI Layers 2, 1       | Sends data physically (Ethernet, Wi-Fi)    |
 
-📝 **Insert Diagram #5**:
-A comparison chart showing OSI's 7 layers and TCP/IP's 4 layers side by side.
+(images/2.2.png)
 
 ---
 
