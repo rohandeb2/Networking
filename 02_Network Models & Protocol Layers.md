@@ -130,5 +130,3 @@ Imagine a parcel:
 * **DevOps needs networking** to manage cloud, deployment, communication between services, and secure operations.
 
 ---
-
-Would you like me to help you convert all this into **presentation slides**, or would you prefer a structured PDF notes file for your students?
