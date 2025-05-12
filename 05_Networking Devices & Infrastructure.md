@@ -6,9 +6,7 @@
 
 * **Analogy**: A router is like a postal service sorting office. It receives mail (data packets), reads the address, and sends it on the correct path towards its destination.
 
-* **Diagram Suggestion**:
-
-    * *(I'd suggest a simple diagram here. A central router with arrows going to and from different network icons (representing home networks, office networks, and the internet). Label the arrows with "Data Packets".)*
+![How Routing Works:](images/5.1.png)
 
 ## 2. Switches
 
