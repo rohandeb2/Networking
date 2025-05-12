@@ -18,8 +18,7 @@ Both **TCP** and **UDP** operate at the **Transport Layer** of the TCP/IP model.
 * **TCP** is like a **phone call**: you say “hello,” they reply “hello,” and you take turns talking — reliable and confirmed.
 * **UDP** is like **sending letters**: you post them quickly without knowing if they arrived or not.
 
-📝 **Insert Diagram #7**:
-A side-by-side visual of TCP handshake (SYN, SYN-ACK, ACK) vs UDP just sending a message.
+![Beginner Analogy](images/3.1.png)
 
 ---
 
