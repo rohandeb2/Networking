@@ -294,5 +294,3 @@ A standard protocol used to **transfer files** between computers over a network.
 | SFTP     | Secure file transfer     | 22     | Yes       |
 
 ---
-
-Would you like me to now combine all sections into a **student-friendly handbook or PDF**, or break it into **slide-by-slide teaching material** next?
