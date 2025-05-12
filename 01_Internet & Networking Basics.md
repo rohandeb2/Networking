@@ -49,9 +49,7 @@ The Internet is not just one big cable—it’s **layered**. These layers are ca
 * They **don’t pay anyone** for data—they exchange traffic with other Tier 1 networks (called **peering**).
 * Examples: AT\&T, Verizon, Tata Communications (in some cases), Level 3 Communications (now Lumen).
 
-📝 **Insert Diagram #2**:
-“Tiered pyramid showing Tier 3 at the bottom (Retail ISPs), Tier 2 in the middle (Regional providers), Tier 1 at the top (Backbone providers) with arrows showing flow of traffic”
-
+![ Tiers of Internet (Tier 3 to Tier 1) – with Real-Life Examples](images/1.2.png)
 ---
 
 ## **3. How Internet is Provided to Servers with Firewalls**
@@ -78,8 +76,7 @@ Now that we know how internet reaches end users, let’s see how it reaches **se
 * Only allow traffic on port 80 (HTTP) and 443 (HTTPS).
 * Block all other traffic like FTP, SSH, etc., unless specifically allowed.
 
-📝 **Insert Diagram #3**:
-“A server in a data center → connected to switch → router → firewall → Internet”
+![ How Internet is Provided to Servers with Firewalls](images/1.3.png)
 
 ---
 
